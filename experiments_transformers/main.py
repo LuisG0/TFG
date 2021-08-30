@@ -186,7 +186,7 @@ def _run_experiment_transformer(
     trainer = Trainer(
         max_epochs=epochs,
         max_steps=steps_per_epoch, 
-        #gpus=[gpu_device],
+        gpus=[gpu_device],
         checkpoint_callback=False
     )
 
