@@ -7,10 +7,6 @@
         "train": "https://www.dropbox.com/s/c4gug4mtkw1oqkd/train.csv?dl=1",
         "test": "https://www.dropbox.com/s/310i3uozx2y1o4b/test.csv?dl=1"
     },
-    "ElectricityLoad": {
-        "train": "https://www.dropbox.com/s/b90zkfqhg6n3p3f/train.csv?dl=1",
-        "test": "https://www.dropbox.com/s/3luvjl24ce3pe1z/test.csv?dl=1"
-    },
     "ExchangeRate": {
         "train": "https://www.dropbox.com/s/z7puea314launkr/train.csv?dl=1",
         "test": "https://www.dropbox.com/s/9xmv1pb6c4y2hfh/test.csv?dl=1"
@@ -34,10 +30,6 @@
     "SolarEnergy": {
         "train": "https://www.dropbox.com/s/yu9j0ybmkn0epzl/train.csv?dl=1",
         "test": "https://www.dropbox.com/s/z26ivaoyee4gk55/test.csv?dl=1"
-    },
-    "GasSensor": {
-        "train": "https://www.dropbox.com/s/lhdnn1quh251y9n/train.csv?dl=1",
-        "test": "https://www.dropbox.com/s/eeexzxk8lwifunh/test.csv?dl=1"
     },
     "Traffic-metr-la": {
         "train": "https://www.dropbox.com/s/4thwkm60ubqq602/train.csv?dl=1",
