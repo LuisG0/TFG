@@ -6,4 +6,4 @@ To replicate experiments:
 
 pip install -r requirements.txt
 
-Execute Srun.sh
+Execute run.sh
