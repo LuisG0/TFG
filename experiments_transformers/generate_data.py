@@ -150,7 +150,6 @@ params = [
 for i, args in tqdm(enumerate(params)):
     t0 = time.time()
     dataset, norm_method, past_history_factor = args
-   
     generate_dataset(args)
     
     notify_slack(

@@ -1,6 +1,6 @@
-from transformerModelsPL.transformerDecoder import TransformerDecoderModel
-from transformerModelsPL.transformerDecoder2 import TransformerDecoderModel2
-from transformerModelsPL.transformerEncoderModel import TransformerEncoderModel
+from transformerModels.transformerDecoder import TransformerDecoderModel
+from transformerModels.transformerDecoder2 import TransformerDecoderModel2
+from transformerModels.transformerEncoderModel import TransformerEncoderModel
 
 
 def TransformerDecoder(

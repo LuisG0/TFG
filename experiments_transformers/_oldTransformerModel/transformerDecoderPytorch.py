@@ -25,9 +25,9 @@ class PositionalEncoding(nn.Module):
         x = x + self.scale * self.pe[:x.size(0), :]
         return self.dropout(x)
 
-class TransformerDecoderModel(nn.Module):
+class oldTransformerDecoderModel(nn.Module):
     def __init__(self, src_dim, tgt_dim, d_model=256,nhead=8, num_layers=3, dropout=0.1):
-        super(TransformerDecoderModel, self).__init__()
+        super(oldTransformerDecoderModel, self).__init__()
 
         self.d_model = d_model
        
