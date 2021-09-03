@@ -134,3 +134,6 @@ data/*
 !data/datasets.json
 
 
+experiments_transformers/experiments0.out
+experiments_transformers/lightning_logs
+experiments_transformers/results
